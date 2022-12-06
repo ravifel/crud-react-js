@@ -1,0 +1,25 @@
+{
+  "alunos": [
+    {
+      "id": 37,
+      "nome": "Felipe Ferreira Silva",
+      "email": "felipe@email.com",
+      "ativo": false,
+      "alunosCursos": null
+    },
+    {
+      "id": 37,
+      "nome": "Felipe Ferreira Silva",
+      "email": "felipe@email.com",
+      "ativo": false,
+      "alunosCursos": null
+    },
+    {
+      "id": 37,
+      "nome": "Felipe Ferreira Silva",
+      "email": "felipe@email.com",
+      "ativo": false,
+      "alunosCursos": null
+    }
+  ]
+}
